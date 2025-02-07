@@ -11,11 +11,9 @@ import numpy as np
 # Obtiene las claves API desde las variables de entorno (o introdúcelas directamente)
 API_KEY = os.getenv("BINGX_API_KEY")
 SECRET_KEY = os.getenv("BINGX_SECRET_KEY")
-# API_KEY = "987f6543-e21b-32d3-a456-426614174111"
-# SECRET_KEY = "987f6543-e21b-32d3-a456-426614174111" 
+# API_KEY = "ASBJSJqmo832cLuLYdpXP0CkUY08oBZxJiUep0l4Dm0q0urOfpXyExckq9RxmPIwqylN1L50lnAoeDhasAaYA"
+# SECRET_KEY = "amh7UPyrJdLoJ33FEcWAoSoaKzZWboXzBuLtgK1xCYzYYwXY50Jv5ZftCcMRHXeOzM1uyfABtiN29HQoEsazQ" 
 
-# API_KEY = os.getenv("BINGX_API_KEY")
-# SECRET_KEY = os.getenv("BINGX_SECRET_KEY")
 
 # Inicializa el exchange con ccxt y activa la limitación de tasa
 exchange = ccxt.bingx({
