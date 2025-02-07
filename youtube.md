@@ -35,7 +35,7 @@ Trading Automático en Bitcoin: 57% Win Rate y 126% de Retorno (Estrategia Backt
 Te explico paso a paso cómo ejecutar el bot, configurar tu entorno y entender cada parte del código de backtesting. Todo el código está disponible en mi GitHub para que puedas probarlo y ajustarlo a tu gusto.
 
 🔗 Descarga el código aquí:
-👉 https://github.com/budydeveloper/multiindicadores-trading-bot
+👉 https://github.com/budydeveloper/classic-indicators-trading-bot
 
 💬 Únete a la comunidad y comparte tu progreso:
 📸 Instagram: https://www.instagram.com/budy.dev/
@@ -47,4 +47,3 @@ Te explico paso a paso cómo ejecutar el bot, configurar tu entorno y entender c
 
 
 
----rename repo to classic-indicators-trading-bot
